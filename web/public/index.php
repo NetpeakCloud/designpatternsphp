@@ -4,4 +4,4 @@ include '../app/vendor/autoload.php';
 
 echo '<pre>';
 
-App\Acme\Foo::init();
+App\Acme\Foo::adapter();
